@@ -1,4 +1,4 @@
-# [:] Example Dotnet Project - Trigger scan - try 5
+# [:] Example Dotnet Project - Trigger scan - try 6
 
 An example dotnet project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
